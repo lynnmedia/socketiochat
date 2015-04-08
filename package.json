@@ -1,0 +1,9 @@
+{
+  "name": "socketiochat",
+  "version": "0.0.1",
+  "dependencies": {
+    "socket.io": "1.3.5",
+    "express": "4.12.3",
+    "mongoose": "^4.0.1"
+  }
+}
